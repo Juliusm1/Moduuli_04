@@ -1,0 +1,13 @@
+body{
+    background: violet;
+    color: aqua;
+}
+.div-element{
+    border: 1px dotted;
+    height: 100px;
+    width: 200px;
+}
+p{
+    background: red;
+    color: blue;
+}
